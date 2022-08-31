@@ -10,7 +10,7 @@
 
 ### **Stack**:
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
+![HTML](https://img.shields.io/badge/-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 
 ## What I Learnt
@@ -19,4 +19,4 @@ Here I got a chance to explore the CSS Position Property. After quite a bit of h
 
 ## Live Link
 
-**[Project in Action 🔥](https://street-trend.netlify.app/)**```
+**[Project in Action 🔥](https://law-fsjs.netlify.app/)**```
